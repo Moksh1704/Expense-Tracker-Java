@@ -28,11 +28,13 @@ This project helps users efficiently manage their expenses, categorize spending,
 ```bash
 git clone https://github.com/Moksh1704/Expense-Tracker-Java.git
 cd Expense-Tracker-Java
+```
  Compile the Code
-
+```bash
 javac *.java
+```
  Run the Application
-
+```bash
 java Main
 
 ```
