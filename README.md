@@ -52,8 +52,6 @@ Expense-Tracker-Java/
 ------
 
 ### Future Enhancements
- Add charts for visual spending analysis
-
- Multi-user support with login
-
- Save data in a database (e.g., MySQL)
+- Add charts for visual spending analysis
+- Multi-user support with login
+- Save data in a database (e.g., MySQL)
