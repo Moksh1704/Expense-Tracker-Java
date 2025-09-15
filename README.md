@@ -43,11 +43,13 @@ java Main
 ### Project Structure
 
 Expense-Tracker-Java/
-│── Expense.java          # Expense model class
-│── ExpenseManager.java   # Handles logic (add, delete, calculate totals)
-│── ExpenseTrackerGUI.java # Swing-based user interface
-│── Main.java             # Entry point
-│── expenses.txt          # Saved data file
+│── Main.java # Entry point of the application
+│── Expense.java # Model class for expense data
+│── ExpenseManager.java # Handles expense logic (CRUD, sorting, filtering)
+│── ExpenseTrackerGUI.java # Graphical User Interface (Swing)
+│── expenses.txt # Local file to store expenses (auto-generated)
+│── README.md # Project documentation
+
 
 ------
 
